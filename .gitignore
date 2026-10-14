@@ -1,0 +1,17 @@
+# OS
+.DS_Store
+
+# deps / build
+node_modules/
+.vercel/
+.env
+.env.*
+!.env.example
+
+# logs
+*.log
+npm-debug.log*
+
+# editors
+.idea/
+.vscode/
